@@ -1,1 +1,2 @@
 It is my first git test file.
+I have updated this file.
