@@ -3,3 +3,5 @@ I have updated this file.
 It's third version.
 Let's create a new branch
 Master has new idea.
+Create feature1 branch.
+Master and new branch merge.
