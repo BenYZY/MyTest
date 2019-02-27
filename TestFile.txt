@@ -5,3 +5,4 @@ Let's create a new branch
 Master has new idea.
 Create feature1 branch.
 Master and new branch merge.
+I have fixed a bug.
