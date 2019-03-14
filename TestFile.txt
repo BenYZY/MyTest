@@ -6,3 +6,5 @@ Master has new idea.
 Create feature1 branch.
 Master and new branch merge.
 I have fixed a bug.
+
+Just test stash and add new file
