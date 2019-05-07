@@ -1,0 +1,3 @@
+[submodule "My-Qt-SerialPort-Class"]
+	path = My-Qt-SerialPort-Class
+	url = https://github.com/BenYZY/My-Qt-SerialPort-Class.git
